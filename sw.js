@@ -1,6 +1,6 @@
 // Network first, so a new version shows up as soon as you're online.
 // Falls back to the cached copy when offline.
-const CACHE = 'fall2026-v69';
+const CACHE = 'fall2026-v70';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
